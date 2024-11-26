@@ -2,4 +2,4 @@ Welcome to ZeroLake, a new query engine build in rust that bridges graph workloa
 
 More to come.
 
-Demo available [here](https://fly.io/apps/gh-sparkling-cherry-6975)
+Demo available [here](https://gh-sparkling-cherry-6975.fly.dev/)
